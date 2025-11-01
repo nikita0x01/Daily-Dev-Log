@@ -6,7 +6,5 @@ Focused on writing cleaner code and learning responsive design basics.
 
 ### 📘 Day 2 
 
-Learned basics of **Tailwind CSS** and integrated it into my React project.  
-Explored utility classes, responsive design, and how Tailwind speeds up UI styling.  
-
+Studied the fundamentals of **Tailwind CSS** — utility classes, responsive design, and how it simplifies styling in modern web projects.
 🛠️ Tech Stack Update: React • Node.js • Vite • Tailwind CSS
