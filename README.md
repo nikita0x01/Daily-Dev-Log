@@ -10,6 +10,6 @@ Studied the fundamentals of **Tailwind CSS** — utility classes, responsive des
 🛠️ Tech Stack Update: React • Node.js • Vite • Tailwind CSS
 
 ## Day 3
-Continued development of my new full stack web application using Next.js.
-Focused on refining the frontend structure, improving UI components, and enhancing dynamic routing.
-Preparing to integrate backend logic and API routes for seamless data flow in upcoming updates.
+
+Continued building my full stack Next.js app.  
+Improved UI, routing, and continued learning Tailwind CSS for better styling
