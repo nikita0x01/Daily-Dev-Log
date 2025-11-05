@@ -13,3 +13,8 @@ Studied the fundamentals of **Tailwind CSS** — utility classes, responsive des
 
 Continued building my full stack Next.js app.  
 Improved UI, routing, and continued learning Tailwind CSS for better styling
+
+## Day 4 
+
+Today, I continued working on my Next.js project and started learning Redux for state management.
+The focus was on integrating Redux with a Next.js application and understanding its core concepts.
