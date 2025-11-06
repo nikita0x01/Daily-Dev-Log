@@ -18,3 +18,8 @@ Improved UI, routing, and continued learning Tailwind CSS for better styling
 
 Today, I continued working on my Next.js project and started learning Redux for state management.
 The focus was on integrating Redux with a Next.js application and understanding its core concepts.
+
+## Day 5
+
+Continued developing the Next.js project while deepening my understanding of Redux.
+Today, I explored how to manage global state efficiently using Redux Toolkit and worked on connecting it with different components in the project for better data flow and scalability.
