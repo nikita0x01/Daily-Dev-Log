@@ -23,3 +23,7 @@ The focus was on integrating Redux with a Next.js application and understanding 
 
 Continued developing the Next.js project while deepening my understanding of Redux.
 Today, I explored how to manage global state efficiently using Redux Toolkit and worked on connecting it with different components in the project for better data flow and scalability.
+
+## Day 6
+
+Worked on the Place Order feature in the Next.js project while deepening my understanding of Redux Toolkit for efficient global state management and smooth data flow across components.
