@@ -27,3 +27,8 @@ Today, I explored how to manage global state efficiently using Redux Toolkit and
 ## Day 6
 
 Worked on the Place Order feature in the Next.js project while deepening my understanding of Redux Toolkit for efficient global state management and smooth data flow across components.
+
+## Day 7
+
+Completed learning Redux Toolkit and continued working on the Next.js project, integrating Redux for improved state management and ensuring seamless data handling across components.
+
