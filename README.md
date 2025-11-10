@@ -35,3 +35,7 @@ Completed learning Redux Toolkit and continued working on the Next.js project, i
 ## Day 8
 
 Completed most of the work in the Next.js project, with only minor UI detailing and final touch-ups remaining to enhance the overall look and user experience.
+
+## Day 9
+
+Learned key concepts including DOM, Flux, Redux, and MVC architecture to understand data flow, state management, and structured web application development.
