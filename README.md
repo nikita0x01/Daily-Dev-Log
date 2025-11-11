@@ -39,3 +39,7 @@ Completed most of the work in the Next.js project, with only minor UI detailing 
 ## Day 9
 
 Learned key concepts including DOM, Flux, Redux, and MVC architecture to understand data flow, state management, and structured web application development.
+
+## Day 10
+
+Took a break from project work to study IP concepts, learning about data transmission, IP addressing, and how networks communicate.
