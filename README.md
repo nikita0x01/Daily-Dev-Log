@@ -43,3 +43,7 @@ Learned key concepts including DOM, Flux, Redux, and MVC architecture to underst
 ## Day 10
 
 Took a break from project work to study IP concepts, learning about data transmission, IP addressing, and how networks communicate.
+
+## Day 11
+
+Focused on learning network and security fundamentals today — explored how IP works in data communication and studied important encryption algorithms like RSA, RC5, AES, and 3DES. Gained a better understanding of how these algorithms ensure data confidentiality and secure transmission across networks.
